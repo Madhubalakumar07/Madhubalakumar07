@@ -30,5 +30,5 @@
 ---
 
 ### 📫 Contact Me
-📧 Email: madhubalakumar7.25@gmail.com
-LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
+📧 Email: madhubalakumar7.25@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
