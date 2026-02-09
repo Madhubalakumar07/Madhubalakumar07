@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Madhubalakumar S
 
-<!--
-**Madhubalakumar07/Madhubalakumar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Python | Java | DSA | LeetCode  
+🚀 Aspiring Software Developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 About Me
+- Solved **100+ problems on LeetCode**
+- ⭐ HackerRank:
+  - Python ⭐⭐⭐
+  - Java ⭐
+- Strong in **DSA & Problem Solving**
+- Interested in **Backend & Core Java**
+
+---
+
+### 🛠️ Tech Stack
+- **Languages:** Python, Java
+- **Concepts:** DSA, OOPs
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 Coding Profiles
+- 🔗 LeetCode: https://leetcode.com/u/Madhubalakumar/
+- 🔗 HackerRank: https://www.hackerrank.com/profile/madhubalakumars1
+- 🔗 LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
+
+---
+
+### 📫 Contact Me
+📧 Email: your-email@example.com
