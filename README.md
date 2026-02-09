@@ -1,18 +1,18 @@
 # Hi 👋, I'm Madhubalakumar S
 
-🎓 Computer Science Student  
-💻 Python | Java | DSA | LeetCode  
-🚀 Aspiring Software Developer
+🎓 Artificial Intelligence and Machine Learning  
+💻 Python | Java | DSA  
+🚀 Aspiring Machine Learning and Software Developer
 
 ---
 
 ### 🔥 About Me
 - Solved **100+ problems on LeetCode**
-- ⭐ HackerRank:
-  - Python ⭐⭐⭐
-  - Java ⭐
+- HackerRank:
+  - Python ⭐⭐⭐⭐
+  - Java ⭐⭐
 - Strong in **DSA & Problem Solving**
-- Interested in **Backend & Core Java**
+- Interested in **Machine Learning and Full Stack**
 
 ---
 
@@ -26,9 +26,9 @@
 ### 📊 Coding Profiles
 - 🔗 LeetCode: https://leetcode.com/u/Madhubalakumar/
 - 🔗 HackerRank: https://www.hackerrank.com/profile/madhubalakumars1
-- 🔗 LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
 
 ---
 
 ### 📫 Contact Me
-📧 Email: your-email@example.com
+📧 Email: madhubalakumar7.25@gmail.com
+LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
