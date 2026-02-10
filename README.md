@@ -42,12 +42,8 @@
 
 ---
 
-## 📫 Connect With Me
-- 📧 Email: madhubalakumar7.25@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
+## 🌐 Connect With Me
 
+- 📧 **Email:** [madhubalakumar7.25@gmail.com](mailto:madhubalakumar7.25@gmail.com)
+- 💼 **LinkedIn:** [Madhubalakumar S](https://www.linkedin.com/in/madhubalakumar-s-9a4b00329)
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding+🚀" />
-</p>
