@@ -1,34 +1,53 @@
-# Hi 👋, I'm Madhubalakumar S
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Madhubalakumar S
+</h1>
 
-🎓 Artificial Intelligence and Machine Learning  
-💻 Python | Java | DSA  
-🚀 Aspiring Machine Learning and Software Developer
+<h3 align="center">Artificial Intelligence & Machine Learning Student | Aspiring ML & Software Developer</h3>
 
 ---
 
-### 🔥 About Me
-- Solved **130+ problems on LeetCode**
-- HackerRank:
+## 🧠 About Me
+- 🎓 Studying **Artificial Intelligence and Machine Learning**
+- 💻 Strong in **Python, Java, and Data Structures**
+- 🧩 Solved **100+ problems on LeetCode**
+- ⭐ HackerRank:
   - Python ⭐⭐⭐⭐
-  - Java ⭐⭐⭐
-- Strong in **DSA & Problem Solving**
-- Interested in **Machine Learning and Full Stack**
+  - Java ⭐⭐
+- 🌱 Currently exploring **Machine Learning & Full Stack Development**
+- ⚡ Fun fact: I trust logic more than guesses 😄
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, Java
-- **Concepts:** DSA, OOPs
-- **Tools:** Git, GitHub, VS Code
+## 🛠️ Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+</p>
 
 ---
 
-### 📊 Coding Profiles
-- 🔗 LeetCode: https://leetcode.com/u/Madhubalakumar/
-- 🔗 HackerRank: https://www.hackerrank.com/profile/madhubalakumars1
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhubalakumar07&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhubalakumar07&theme=tokyonight" />
+</p>
 
 ---
 
-### 📫 Contact Me
-📧 Email: madhubalakumar7.25@gmail.com 
+## 🧩 Coding Profiles
+- 🔗 **LeetCode:** https://leetcode.com/u/Madhubalakumar/
+- 🔗 **HackerRank:** https://www.hackerrank.com/profile/madhubalakumars1
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: madhubalakumar7.25@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/madhubalakumar-s-9a4b00329
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&width=500&lines=Thanks+for+visiting+my+profile!;Happy+Coding+🚀" />
+</p>
