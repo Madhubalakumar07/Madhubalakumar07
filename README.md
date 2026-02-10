@@ -7,10 +7,10 @@
 ---
 
 ### 🔥 About Me
-- Solved **100+ problems on LeetCode**
+- Solved **130+ problems on LeetCode**
 - HackerRank:
   - Python ⭐⭐⭐⭐
-  - Java ⭐⭐
+  - Java ⭐⭐⭐
 - Strong in **DSA & Problem Solving**
 - Interested in **Machine Learning and Full Stack**
 
