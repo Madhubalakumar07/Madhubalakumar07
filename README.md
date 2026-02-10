@@ -41,6 +41,13 @@
 - 🔗 **HackerRank:** https://www.hackerrank.com/profile/madhubalakumars1
 
 ---
+### 🧠 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/u/Madhubalakumar/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/YASWANTHSM007?theme=dark&font=Baloo&ext=heatmap" />
+  </a>
+</p>
 
 ## 🌐 Connect With Me
 
