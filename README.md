@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/Madhubalakumar/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/YASWANTHSM007?theme=dark&font=Baloo&ext=heatmap" />
+    <img src="https://leetcard.jacoblin.cool/Madhubalakumar?theme=dark&font=Baloo&ext=heatmap" />
   </a>
 </p>
 
