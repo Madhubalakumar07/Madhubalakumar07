@@ -26,9 +26,6 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhubalakumar07&show_icons=true&theme=tokyonight" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhubalakumar07&theme=tokyonight" />
@@ -48,6 +45,7 @@
     <img src="https://leetcard.jacoblin.cool/Madhubalakumar?theme=dark&font=Baloo&ext=heatmap" />
   </a>
 </p>
+---
 
 ## 🌐 Connect With Me
 
