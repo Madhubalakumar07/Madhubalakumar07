@@ -12,7 +12,7 @@
 - 🧩 Solved **100+ problems on LeetCode**
 - ⭐ HackerRank:
   - Python ⭐⭐⭐⭐
-  - Java ⭐⭐
+  - Java ⭐⭐⭐
 - 🌱 Currently exploring **Machine Learning & Full Stack Development**
 - ⚡ Fun fact: I trust logic more than guesses 😄
 
