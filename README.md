@@ -3,7 +3,9 @@
 </h1>
 
 <h3 align="center">Artificial Intelligence & Machine Learning Student | Aspiring ML & Software Developer</h3>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Madhubalakumar07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 ---
 
 ## 🧠 About Me
