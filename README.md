@@ -6,7 +6,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Madhubalakumar07&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
----
 
 ## 🧠 About Me
 - 🎓 Studying **Artificial Intelligence and Machine Learning**
@@ -47,7 +46,6 @@
     <img src="https://leetcard.jacoblin.cool/Madhubalakumar?theme=dark&font=Baloo&ext=heatmap" />
   </a>
 </p>
----
 
 ## 🌐 Connect With Me
 
