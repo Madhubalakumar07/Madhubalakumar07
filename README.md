@@ -20,8 +20,26 @@
 ---
 
 ## 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,html,css,git,github,vscode" />
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java,python" />
+</p>
+
+---
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
