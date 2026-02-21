@@ -43,7 +43,12 @@
 </p>
 
 ---
+### 🧰 IDE & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
 
+---
 ## 📊 GitHub Stats
 
 <p align="center">
