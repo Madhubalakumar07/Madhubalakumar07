@@ -37,15 +37,18 @@
 
 ### 🤖 AI & Machine Learning
 <p>
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
 </p>
 
 ---
 ### 🧰 IDE & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="50"/>
 </p>
 
 ---
