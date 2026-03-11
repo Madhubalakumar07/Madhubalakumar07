@@ -47,8 +47,9 @@
 ---
 ### 🧰 IDE & Version Control
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="50"/>
 </p>
 
 ---
