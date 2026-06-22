@@ -10,7 +10,7 @@
 ## 🧠 About Me
 - 🎓 Studying **Artificial Intelligence and Machine Learning**
 - 💻 Strong in **Python, Java, and Data Structures**
-- 🧩 Solved **100+ problems on LeetCode**
+- 🧩 Solved **200+ problems on LeetCode**
 - ⭐ HackerRank:
   - Python ⭐⭐⭐⭐
   - Java ⭐⭐⭐
