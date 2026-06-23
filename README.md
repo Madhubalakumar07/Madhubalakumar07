@@ -43,18 +43,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
 </p>
 
 ---
+
+### 🚀 Deployments
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="50"/>
+  <img src="https://cdn.simpleicons.org/render/46E3B7" height="50"/>
+</p>
+
+---
+
 ### 🧰 IDE & Version Control
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50"/>
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
