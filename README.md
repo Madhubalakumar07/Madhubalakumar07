@@ -35,7 +35,7 @@
 
 ---
 
-### 🤖 AI & Machine Learning
+### 🧠 AI, Machine Learning, Deep Learning & Computer Vision
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50"/>
@@ -44,6 +44,8 @@
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
 </p>
 
 ---
