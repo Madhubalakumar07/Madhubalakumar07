@@ -1,13 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Madhubalakumar%20S&fontSize=55&fontAlignY=35&desc=AI%20%26%20Machine%20Learning%20Student%20%7C%20Aspiring%20ML%20%26%20Software%20Developer&descAlignY=58&descSize=18&animation=fadeIn&fontColor=ffffff&color=gradient" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&height=70&lines=MADHUBALAKUMAR+S;AI+%26+MACHINE+LEARNING+STUDENT;ASPIRING+ML+%26+SOFTWARE+DEVELOPER"
+    alt="Madhubalakumar S"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Building+with+Code+%F0%9F%92%BB;Learning+Machine+Learning+%F0%9F%A4%96;Solving+Problems+with+DSA+%F0%9F%A7%A9;Turning+Ideas+into+Projects+%F0%9F%9A%80" />
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=19&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=750&height=50&lines=Python+%7C+Java+%7C+DSA+%7C+Machine+Learning;Building+Projects+%7C+Learning+%7C+Improving+%F0%9F%9A%80"
+    alt="Skills"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Madhubalakumar07&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6" />
+  <img
+    src="https://komarev.com/ghpvc/?username=Madhubalakumar07&label=PROFILE%20VIEWS&style=for-the-badge&color=0e75b6"
+    alt="Profile Views"
+  />
 </p>
 
 ---
@@ -104,20 +113,8 @@ A Streamlit-based application that automates birthday reminders and email notifi
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhubalakumar07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubalakumar07&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhubalakumar07&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Madhubalakumar07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Madhubalakumar07&theme=github_dark&animation=load" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Madhubalakumar07&theme=github_dark&animation=load" height="180"/>
 </p>
 
 ---
@@ -142,14 +139,6 @@ A Streamlit-based application that automates birthday reminders and email notifi
   <a href="https://leetcode.com/u/Madhubalakumar/">
     <img src="https://leetcard.jacoblin.cool/Madhubalakumar?theme=dark&font=Baloo&ext=heatmap" />
   </a>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madhubalakumar07&theme=github-dark" />
 </p>
 
 ---
