@@ -53,7 +53,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,postgres" />
 </p>
 
-### 🧠 AI, Machine Learning, Deep Learning & Computer Vision
+### 🤖 Machine Learning, Deep Learning & Computer Vision
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" height="50"/>
@@ -65,6 +65,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
+</p>
+
+### 🧠 AI
+<p>
+  <img src="https://ollama.com/public/ollama.png" height="50" alt="Ollama"/>
 </p>
 
 ### 🧰 IDE & Version Control
